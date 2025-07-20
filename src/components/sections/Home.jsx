@@ -13,8 +13,7 @@ const Home = () => {
 					<h1 className='Home-h1'>{name}</h1>
 					<h2 className='Home-h2'>{role}</h2>
 					<p className='Home-description'>
-						Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed
-						facere, itaque excepturi, necessitatibus cum ex nisi.
+						{description}
 					</p>
 					<SocialLinks />
 				</div>
