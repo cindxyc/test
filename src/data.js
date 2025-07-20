@@ -32,7 +32,7 @@ const work = [
 			{ icon: icon.SiJava, name: 'Java' },
 			{ icon: icon.SiSpring, name: 'Spring Boot' },
 		],
-		linkProject: '',
+		linkProject: 'https://github.com/cindxyc/Xtreme-Mussels',
 		linkGithub: 'https://github.com/cindxyc/Xtreme-Mussels',
 	},
 	{
@@ -42,7 +42,7 @@ const work = [
 			{ icon: icon.SiFigma, name: 'Figma' },
 		],
 		linkProject: 'https://www.figma.com/design/mxWx9QRFrbA4GWE4I9yQrb/318?node-id=0-1&t=848j4Ga9WgDncTZC-1',
-		linkGithub: '',
+		linkGithub: 'https://www.figma.com/design/mxWx9QRFrbA4GWE4I9yQrb/318?node-id=0-1&t=848j4Ga9WgDncTZC-1',
 	},
 	{
 		name: 'Bookit',
@@ -51,7 +51,7 @@ const work = [
 			{ icon: icon.SiFigma, name: 'Figma' },
 		],
 		linkProject: 'https://www.figma.com/proto/i6mCdvfnPM0WToX3ZQonwB/Untitled?node-id=1-4&starting-point-node-id=1%3A4m',
-		linkGithub: '',
+		linkGithub: 'https://www.figma.com/proto/i6mCdvfnPM0WToX3ZQonwB/Untitled?node-id=1-4&starting-point-node-id=1%3A4m',
 	},
 ]
 
